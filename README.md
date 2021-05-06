@@ -2,7 +2,7 @@
 
 ## Overview
 
-* The app uses a recyclerview that lists skincare products, animations are on recyclerview items.
+* The app uses a recyclerview that lists skincare products, animations are applied on recyclerview items.
 * It has 3 activities: mainActivity showing icon and name of products, secondActivity showing the details and thirdActivity showing the image
 * The app has 2 broadcast listeners : battery level broadcast listener and wifi/mobile data broadcast listener(a Toast message indicating it)
 * Images are fetched locally
