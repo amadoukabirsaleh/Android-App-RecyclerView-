@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="List">
+
+        <item>Aroma</item>
+        <item>FaceHero</item>
+        <item>FaceTransparent</item>
+        <item>Lumin</item>
+        <item>SoyFaceCleanser</item>
+        <item>Derma</item>
+        <item>Derma Lipo</item>
+
+        <item>Aroma</item>
+        <item>FaceHero</item>
+        <item>FaceTransparent</item>
+        <item>Lumin</item>
+        <item>SoyFaceCleanser</item>
+        <item>Derma</item>
+        <item>Derma Lipo</item>
+
+    </string-array>
+
+    <string-array name="Description">
+        <item>Click for more detail</item>
+        <item>Click for more detail</item>
+        <item>Click for more detail</item>
+        <item>Click for more detail</item>
+        <item>Click for more detail</item>
+        <item>Click for more detail</item>
+        <item>Click for more detail</item>
+
+        <item>Click for more detail</item>
+        <item>Click for more detail</item>
+        <item>Click for more detail</item>
+        <item>Click for more detail</item>
+        <item>Click for more detail</item>
+        <item>Click for more detail</item>
+        <item>Click for more detail</item>
+    </string-array>
+
+    <string-array name="about">
+        <item>100% Pure Therapeutic Essential Oils. No fillers, NO Additives, or Carriers Added.
+            A Handpicked selection from different parts of the world, including countries like ( France, Australia , Brazil )
+        Used in professional environments like massage facilities, beauty salons and offices
+        Set of 6 Therapeutic Oils include some of the Most Popular and in demand Essential Oils. This incredible Gift Set includes.
+            Lavender, Tea Tree, Eucalyptus, Peppermint, Lemongrass and Sweet Orange.
+        Each box includes 6 Amber Brown Bottles - 10Ml with Dropper. The dark bottle will help keep the oils fresh and also guard against light degradation.
+            FOR EXTERNAL USE ONLY. freshening up the scent of a room and setting the aroma to the desired mood.
+        </item>
+        <item>A terrifically powerful, fantastically lightweight facial oil that deeply hydrates, soothes,
+            revitalizes and completely protects the face against bad guys trying to make it unhappy.
+        </item>
+        <item>Made of bio-compatible grade PET polymer,
+            OUR Face Shield provides excellent protection for full face from saliva splash, spray and splatter, droplet, dust, oil smoke and more.
+            OPTICALLY CLEAR: 100% transparent, no distortion free wrap-around face shield.</item>
+        <item>Lumin is a Los Angeles-based skincare start-up that aims to give men an easy way to properly take care of their skin.
+            Customers have the option to sign up for a subscription to make Lumin part of their daily routine.
+            The skincare world is a tough one to break into but the brand has gained some solid traction so far.
+            Lumin is featured in a number of leading publications including Vanity Fair, Rolling Stone, and Vogue.</item>
+        <item>Soy Face Cleanser is beloved for its ability to thoroughly cleanse and remove face makeup without stripping the skin of essential moisture.
+            With calming cucumber extract, balancing rosewater, and nourishing borage seed oil, the cleanser leaves skin feeling supple and refreshed.
+        </item>
+        <item>
+            Natural body scrub body exfoliating treatment Derma-Scrub Body based on silica microgranules, jojoba oil, vitamin E. Suitable for all types of skins. It can be used 1 or 2 times a week also in preparation for treatments such as needling, mesotherapy. For a perfect renewal treatment it is recommended to apply 1 or 2 times a week on dry or damp skin, massaging for about 20-30 seconds all over the body, rinse and apply the most suitable cream treatment based on the imperfection: Derma-Lipo cream for lipolytic and reducing treatment, or Derma-Celu Cream for anti-cellulite treatment.
+        </item>
+        <item>
+            Body slimming phosphatidylcholine cream lipolytic action – Easily absorption emulsion, indicated for treatment of localized fat deposits and fat pads. Combined with a regular lifestyle and a balanced diet, applied consistently (morning and evening for at least a month), it allows to obtain a significant reduction in fat pads, reshaping the appearance and streamlining the body profile.
+        </item>
+
+        <item>100% Pure Therapeutic Essential Oils. No fillers, NO Additives, or Carriers Added.
+            A Handpicked selection from different parts of the world, including countries like ( France, Australia , Brazil )
+        Used in professional environments like massage facilities, beauty salons and offices
+        Set of 6 Therapeutic Oils include some of the Most Popular and in demand Essential Oils. This incredible Gift Set includes.
+            Lavender, Tea Tree, Eucalyptus, Peppermint, Lemongrass and Sweet Orange.
+        Each box includes 6 Amber Brown Bottles - 10Ml with Dropper. The dark bottle will help keep the oils fresh and also guard against light degradation.
+            FOR EXTERNAL USE ONLY. freshening up the scent of a room and setting the aroma to the desired mood.
+        </item>
+        <item>A terrifically powerful, fantastically lightweight facial oil that deeply hydrates, soothes,
+            revitalizes and completely protects the face against bad guys trying to make it unhappy.
+        </item>
+        <item>Made of bio-compatible grade PET polymer,
+            OUR Face Shield provides excellent protection for full face from saliva splash, spray and splatter, droplet, dust, oil smoke and more.
+            OPTICALLY CLEAR: 100% transparent, no distortion free wrap-around face shield.</item>
+        <item>Lumin is a Los Angeles-based skincare start-up that aims to give men an easy way to properly take care of their skin.
+            Customers have the option to sign up for a subscription to make Lumin part of their daily routine.
+            The skincare world is a tough one to break into but the brand has gained some solid traction so far.
+            Lumin is featured in a number of leading publications including Vanity Fair, Rolling Stone, and Vogue.</item>
+        <item>Soy Face Cleanser is beloved for its ability to thoroughly cleanse and remove face makeup without stripping the skin of essential moisture.
+            With calming cucumber extract, balancing rosewater, and nourishing borage seed oil, the cleanser leaves skin feeling supple and refreshed.
+        </item>
+        <item>
+            Natural body scrub body exfoliating treatment Derma-Scrub Body based on silica microgranules, jojoba oil, vitamin E. Suitable for all types of skins. It can be used 1 or 2 times a week also in preparation for treatments such as needling, mesotherapy. For a perfect renewal treatment it is recommended to apply 1 or 2 times a week on dry or damp skin, massaging for about 20-30 seconds all over the body, rinse and apply the most suitable cream treatment based on the imperfection: Derma-Lipo cream for lipolytic and reducing treatment, or Derma-Celu Cream for anti-cellulite treatment.
+        </item>
+        <item>
+            Body slimming phosphatidylcholine cream lipolytic action – Easily absorption emulsion, indicated for treatment of localized fat deposits and fat pads. Combined with a regular lifestyle and a balanced diet, applied consistently (morning and evening for at least a month), it allows to obtain a significant reduction in fat pads, reshaping the appearance and streamlining the body profile.
+        </item>
+    </string-array>
+</resources>

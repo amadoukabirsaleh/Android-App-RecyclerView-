@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="List">
+
+        <item>Aroma</item>
+        <item>FaceHero</item>
+        <item>FaceTransparent</item>
+        <item>Lumin</item>
+        <item>SoyFaceCleanser</item>
+        <item>Derma</item>
+        <item>Derma Lipo</item>
+
+        <item>Aroma</item>
+        <item>FaceHero</item>
+        <item>FaceTransparent</item>
+        <item>Lumin</item>
+        <item>SoyFaceCleanser</item>
+        <item>Derma</item>
+        <item>Derma Lipo</item>
+
+
+
+    </string-array>
+
+    <string-array name="Description">
+        <item>Cliquez pour plus de détails</item>
+        <item>Cliquez pour plus de détails</item>
+        <item>Cliquez pour plus de détails</item>
+        <item>Cliquez pour plus de détails</item>
+        <item>Cliquez pour plus de détails</item>
+        <item>Cliquez pour plus de détails</item>
+        <item>Cliquez pour plus de détails</item>
+        <item>Cliquez pour plus de détails</item>
+        <item>Cliquez pour plus de détails</item>
+        <item>Cliquez pour plus de détails</item>
+        <item>Cliquez pour plus de détails</item>
+        <item>Cliquez pour plus de détails</item>
+        <item>Cliquez pour plus de détails</item>
+        <item>Cliquez pour plus de détails</item>
+    </string-array>
+
+    <string-array name="about">
+        <item>Huiles essentielles thérapeutiques 100% pures. Aucun agent de remplissage, aucun additif ou support ajouté.
+             Une sélection triée sur le volet de différentes régions du monde, y compris des pays comme (France, Australie, Brésil)
+         Utilisé dans les environnements professionnels tels que les centres de massage, les salons de beauté et les bureaux
+         L ensemble de 6 huiles thérapeutiques comprend certaines des huiles essentielles les plus populaires et les plus demandées. Cet incroyable coffret cadeau comprend.
+             Lavande, arbre à thé, eucalyptus, menthe poivrée, citronnelle et orange douce.
+         Chaque boîte comprend 6 bouteilles brun ambré - 10 ml avec compte-gouttes. La bouteille foncée aidera à garder les huiles fraîches et à se prémunir contre la dégradation par la lumière.
+             SEULEMENT POUR USAGE EXTERNE. rafraîchir le parfum d une pièce et mettre l arôme à l ambiance désirée.
+        </item>
+        <item>Une huile pour le visage extrêmement puissante et incroyablement légère qui hydrate en profondeur, apaise,
+             revitalise et protège complètement le visage contre les méchants essayant de le rendre malheureux.
+        </item>
+        <item>Fabriqué en polymère PET de qualité bio-compatible,
+             Notre écran facial offre une excellente protection pour le visage complet contre les éclaboussures de salive, les éclaboussures et les éclaboussures, les gouttelettes, la poussière, la fumée d huile et plus encore.
+             OPTIQUEMENT CLAIR: 100% transparent, écran facial enveloppant sans distorsion.</item>
+        <item>Lumin est une start-up de soins de la peau basée à Los Angeles qui vise à donner aux hommes un moyen facile de prendre soin de leur peau.
+             Les clients ont la possibilité de souscrire à un abonnement pour intégrer Lumin à leur routine quotidienne.
+             Le monde des soins de la peau est difficile à pénétrer, mais la marque a acquis une solide traction jusqu à présent.
+             Lumin est présenté dans un certain nombre de publications de premier plan, notamment Vanity Fair, Rolling Stone et Vogue.</item>
+        <item>Le nettoyant pour le visage au soja est apprécié pour sa capacité à nettoyer en profondeur et à enlever le maquillage du visage sans dépouiller la peau de l humidité essentielle.
+             Avec de l extrait de concombre apaisant, de l eau de rose équilibrante et de l huile de graines de bourrache nourrissante, le nettoyant laisse la peau souple et rafraîchie.
+        </item>
+        <item>
+            Gommage corporel naturel Soin exfoliant pour le corps Derma-Scrub Body à base de microgranules de silice, huile de jojoba, vitamine E. Convient à tous types de peaux. Il peut être utilisé 1 à 2 fois par semaine également en préparation à des traitements tels que l aiguilletage, la mésothérapie. Pour un soin de renouvellement parfait, il est recommandé d appliquer 1 à 2 fois par semaine sur peau sèche ou humide, en massant pendant environ 20-30 secondes sur tout le corps, rincer et appliquer la crème de soin la plus adaptée en fonction de l imperfection: Derma-Lipo crème pour le traitement lipolytique et réducteur, ou Derma-Celu Cream pour le traitement anti-cellulite.
+        </item>
+        <item>
+Crème corps minceur phosphatidylcholine à action lipolytique - Emulsion facilement absorbante, indiquée pour le traitement des amas graisseux localisés et des coussinets adipeux. Associé à un mode de vie régulier et à une alimentation équilibrée, appliqué de manière cohérente (matin et soir pendant au moins un mois), il permet d obtenir une réduction significative des coussinets adipeux, remodelant l apparence et rationalisant le profil corporel.
+        </item>
+
+        <item>Huiles essentielles thérapeutiques 100% pures. Aucun agent de remplissage, aucun additif ou support ajouté.
+             Une sélection triée sur le volet de différentes régions du monde, y compris des pays comme (France, Australie, Brésil)
+         Utilisé dans les environnements professionnels tels que les centres de massage, les salons de beauté et les bureaux
+         L ensemble de 6 huiles thérapeutiques comprend certaines des huiles essentielles les plus populaires et les plus demandées. Cet incroyable coffret cadeau comprend.
+             Lavande, arbre à thé, eucalyptus, menthe poivrée, citronnelle et orange douce.
+         Chaque boîte comprend 6 bouteilles brun ambré - 10 ml avec compte-gouttes. La bouteille foncée aidera à garder les huiles fraîches et à se prémunir contre la dégradation par la lumière.
+             SEULEMENT POUR USAGE EXTERNE. rafraîchir le parfum d une pièce et mettre l arôme à l ambiance désirée.
+        </item>
+        <item>Une huile pour le visage extrêmement puissante et incroyablement légère qui hydrate en profondeur, apaise,
+             revitalise et protège complètement le visage contre les méchants essayant de le rendre malheureux.
+        </item>
+        <item>Fabriqué en polymère PET de qualité bio-compatible,
+             Notre écran facial offre une excellente protection pour le visage complet contre les éclaboussures de salive, les éclaboussures et les éclaboussures, les gouttelettes, la poussière, la fumée d huile et plus encore.
+             OPTIQUEMENT CLAIR: 100% transparent, écran facial enveloppant sans distorsion.</item>
+        <item>Lumin est une start-up de soins de la peau basée à Los Angeles qui vise à donner aux hommes un moyen facile de prendre soin de leur peau.
+             Les clients ont la possibilité de souscrire à un abonnement pour intégrer Lumin à leur routine quotidienne.
+             Le monde des soins de la peau est difficile à pénétrer, mais la marque a acquis une solide traction jusqu à présent.
+             Lumin est présenté dans un certain nombre de publications de premier plan, notamment Vanity Fair, Rolling Stone et Vogue.</item>
+        <item>Le nettoyant pour le visage au soja est apprécié pour sa capacité à nettoyer en profondeur et à enlever le maquillage du visage sans dépouiller la peau de l humidité essentielle.
+             Avec de l extrait de concombre apaisant, de l eau de rose équilibrante et de l huile de graines de bourrache nourrissante, le nettoyant laisse la peau souple et rafraîchie.
+        </item>
+        <item>
+            Gommage corporel naturel Soin exfoliant pour le corps Derma-Scrub Body à base de microgranules de silice, huile de jojoba, vitamine E. Convient à tous types de peaux. Il peut être utilisé 1 à 2 fois par semaine également en préparation à des traitements tels que l aiguilletage, la mésothérapie. Pour un soin de renouvellement parfait, il est recommandé d appliquer 1 à 2 fois par semaine sur peau sèche ou humide, en massant pendant environ 20-30 secondes sur tout le corps, rincer et appliquer la crème de soin la plus adaptée en fonction de l imperfection: Derma-Lipo crème pour le traitement lipolytique et réducteur, ou Derma-Celu Cream pour le traitement anti-cellulite.
+        </item>
+        <item>
+Crème corps minceur phosphatidylcholine à action lipolytique - Emulsion facilement absorbante, indiquée pour le traitement des amas graisseux localisés et des coussinets adipeux. Associé à un mode de vie régulier et à une alimentation équilibrée, appliqué de manière cohérente (matin et soir pendant au moins un mois), il permet d obtenir une réduction significative des coussinets adipeux, remodelant l apparence et rationalisant le profil corporel.
+        </item>
+    </string-array>
+</resources>

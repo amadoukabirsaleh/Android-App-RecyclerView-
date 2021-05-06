@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="List">
+
+        <item>Aroma</item>
+        <item>FaceHero</item>
+        <item>FaceTransparent</item>
+        <item>Lumin</item>
+        <item>SoyFaceCleanser</item>
+        <item>Derma</item>
+        <item>Derma Lipo</item>
+
+        <item>Aroma</item>
+        <item>FaceHero</item>
+        <item>FaceTransparent</item>
+        <item>Lumin</item>
+        <item>SoyFaceCleanser</item>
+        <item>Derma</item>
+        <item>Derma Lipo</item>
+
+
+    </string-array>
+
+    <string-array name="Description">
+        <item>Kliknite za više detalja</item>
+        <item>Kliknite za više detalja</item>
+        <item>Kliknite za više detalja</item>
+        <item>Kliknite za više detalja</item>
+        <item>Kliknite za više detalja</item>
+        <item>Kliknite za više detalja</item>
+        <item>Kliknite za više detalja</item>
+
+        <item>Kliknite za više detalja</item>
+        <item>Kliknite za više detalja</item>
+        <item>Kliknite za više detalja</item>
+        <item>Kliknite za više detalja</item>
+        <item>Kliknite za više detalja</item>
+        <item>Kliknite za više detalja</item>
+        <item>Kliknite za više detalja</item>
+    </string-array>
+
+    <string-array name="about">
+        <item>100% čista terapijska esencijalna ulja. Nema dodataka, NO dodataka ili nosača.
+             Odabrani odabir iz različitih dijelova svijeta, uključujući zemlje poput (Francuska, Australija, Brazil)
+         Koristi se u profesionalnim okruženjima poput masažnih objekata, kozmetičkih salona i ureda
+         Skup od 6 terapijskih ulja uključuje neka od najpopularnijih i najtraženijih esencijalnih ulja. Ovaj nevjerojatni poklon set uključuje.
+             Lavanda, čajevac, eukaliptus, paprena metvica, limunska trava i slatka naranča.
+         Svaka kutija uključuje 6 bobica jantarno smeđe boje - 10 ml s kapaljkom. Tamna bočica pomoći će u održavanju ulja svježim, a ujedno će se zaštititi od propadanja svjetlosti.
+             SAMO ZA VANJSKU UPORABU. osvježavajući miris sobe i podešavajući aromu željenom raspoloženju.
+        </item>
+        <item>Užasno moćno, fantastično lagano ulje za lice koje dubinski hidratizira, umiruje,
+             revitalizira i u potpunosti štiti lice od negativaca koji ga pokušavaju učiniti nesretnim.
+        </item>
+        <item>Izrađen od bio-kompatibilnog PET polimera,
+             NAŠ Štit za lice pruža izvrsnu zaštitu cijelog lica od prskanja sline, prskanja i prskanja, kapljica, prašine, uljnog dima i još mnogo toga.
+             OPTIKALNO JASNO: 100% proziran, štitnik za lice bez izobličenja koji se omotava.</item>
+        <item>Lumin je pokretanje njege kože sa sjedištem u Los Angelesu čiji je cilj pružiti muškarcima jednostavan način da pravilno brinu o svojoj koži.
+             Kupci imaju mogućnost prijaviti se za pretplatu kako bi Lumin postao dio njihove svakodnevice.
+             Svijet njege kože teško je probiti se, ali brend je do sada stekao solidnu snagu.
+             Lumin se pojavljuje u brojnim vodećim publikacijama, uključujući Vanity Fair, Rolling Stone i Vogue.</item>
+        <item>Soy Cleanser za lice omiljen je zbog svoje sposobnosti temeljitog čišćenja i uklanjanja šminke s lica bez skidanja s kože neophodne vlage.
+             S umirujućim ekstraktom krastavca, balansiranjem ružine vode i hranjivim uljem sjemenki boražine, sredstvo za čišćenje ostavlja kožu elastičnom i osvježenom.
+        </item>
+        <item>
+            Prirodni piling za tijelo tretman za piling tijela Derma-Scrub Body na bazi mikrogranula silike, ulja jojobe i vitamina E. Pogodno za sve vrste koža. Može se koristiti 1 ili 2 puta tjedno, također kao priprema za tretmane kao što su iglice, mezoterapija. Za savršeni obnavljajući tretman preporučuje se nanošenje 1 ili 2 puta tjedno na suhu ili vlažnu kožu, masirajući oko 20-30 sekundi po cijelom tijelu, isperite i primijenite najprikladniji kremni tretman temeljen na nesavršenosti: Derma-Lipo krema za lipolitički i redukcijski tretman ili Derma-Celu krema za anticelulitni tretman.
+        </item>
+        <item>
+            Krema za mršavljenje tijela fosfatidilkolin lipolitičko djelovanje - Lako upijajuća emulzija, namijenjena liječenju lokaliziranih masnih naslaga i masnih naslaga. U kombinaciji s redovitim načinom života i uravnoteženom prehranom, koja se primjenjuje dosljedno (ujutro i navečer tijekom najmanje mjesec dana), omogućuje značajno smanjenje masnih uložaka, preoblikujući izgled i pojednostavljujući profil tijela.
+        </item>
+
+        <item>100% čista terapijska esencijalna ulja. Nema dodataka, NO dodataka ili nosača.
+             Odabrani odabir iz različitih dijelova svijeta, uključujući zemlje poput (Francuska, Australija, Brazil)
+         Koristi se u profesionalnim okruženjima poput masažnih objekata, kozmetičkih salona i ureda
+         Skup od 6 terapijskih ulja uključuje neka od najpopularnijih i najtraženijih esencijalnih ulja. Ovaj nevjerojatni poklon set uključuje.
+             Lavanda, čajevac, eukaliptus, paprena metvica, limunska trava i slatka naranča.
+         Svaka kutija uključuje 6 bobica jantarno smeđe boje - 10 ml s kapaljkom. Tamna bočica pomoći će u održavanju ulja svježim, a ujedno će se zaštititi od propadanja svjetlosti.
+             SAMO ZA VANJSKU UPORABU. osvježavajući miris sobe i podešavajući aromu željenom raspoloženju.
+        </item>
+        <item>Užasno moćno, fantastično lagano ulje za lice koje dubinski hidratizira, umiruje,
+             revitalizira i u potpunosti štiti lice od negativaca koji ga pokušavaju učiniti nesretnim.
+        </item>
+        <item>Izrađen od bio-kompatibilnog PET polimera,
+             NAŠ Štit za lice pruža izvrsnu zaštitu cijelog lica od prskanja sline, prskanja i prskanja, kapljica, prašine, uljnog dima i još mnogo toga.
+             OPTIKALNO JASNO: 100% proziran, štitnik za lice bez izobličenja koji se omotava.</item>
+        <item>Lumin je pokretanje njege kože sa sjedištem u Los Angelesu čiji je cilj pružiti muškarcima jednostavan način da pravilno brinu o svojoj koži.
+             Kupci imaju mogućnost prijaviti se za pretplatu kako bi Lumin postao dio njihove svakodnevice.
+             Svijet njege kože teško je probiti se, ali brend je do sada stekao solidnu snagu.
+             Lumin se pojavljuje u brojnim vodećim publikacijama, uključujući Vanity Fair, Rolling Stone i Vogue.</item>
+        <item>Soy Cleanser za lice omiljen je zbog svoje sposobnosti temeljitog čišćenja i uklanjanja šminke s lica bez skidanja s kože neophodne vlage.
+             S umirujućim ekstraktom krastavca, balansiranjem ružine vode i hranjivim uljem sjemenki boražine, sredstvo za čišćenje ostavlja kožu elastičnom i osvježenom.
+        </item>
+        <item>
+            Prirodni piling za tijelo tretman za piling tijela Derma-Scrub Body na bazi mikrogranula silike, ulja jojobe i vitamina E. Pogodno za sve vrste koža. Može se koristiti 1 ili 2 puta tjedno, također kao priprema za tretmane kao što su iglice, mezoterapija. Za savršeni obnavljajući tretman preporučuje se nanošenje 1 ili 2 puta tjedno na suhu ili vlažnu kožu, masirajući oko 20-30 sekundi po cijelom tijelu, isperite i primijenite najprikladniji kremni tretman temeljen na nesavršenosti: Derma-Lipo krema za lipolitički i redukcijski tretman ili Derma-Celu krema za anticelulitni tretman.
+        </item>
+        <item>
+            Krema za mršavljenje tijela fosfatidilkolin lipolitičko djelovanje - Lako upijajuća emulzija, namijenjena liječenju lokaliziranih masnih naslaga i masnih naslaga. U kombinaciji s redovitim načinom života i uravnoteženom prehranom, koja se primjenjuje dosljedno (ujutro i navečer tijekom najmanje mjesec dana), omogućuje značajno smanjenje masnih uložaka, preoblikujući izgled i pojednostavljujući profil tijela.
+        </item>
+    </string-array>
+</resources>

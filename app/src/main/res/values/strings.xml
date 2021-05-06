@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">AhmadouList</string>
+    <string name="viewImage"><u>VIEW THE IMAGE</u></string>
+
+</resources>

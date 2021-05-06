@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="List">
+
+        <item>Aroma</item>
+        <item>FaceHero</item>
+        <item>FaceTransparent</item>
+        <item>Lumin</item>
+        <item>SoyFaceCleanser</item>
+        <item>Derma</item>
+        <item>Derma Lipo</item>
+
+        <item>Aroma</item>
+        <item>FaceHero</item>
+        <item>FaceTransparent</item>
+        <item>Lumin</item>
+        <item>SoyFaceCleanser</item>
+        <item>Derma</item>
+        <item>Derma Lipo</item>
+
+
+    </string-array>
+
+    <string-array name="Description">
+        <item>Daha fazla detay için tıklayın</item>
+        <item>Daha fazla detay için tıklayın</item>
+        <item>Daha fazla detay için tıklayın</item>
+        <item>Daha fazla detay için tıklayın</item>
+        <item>Daha fazla detay için tıklayın</item>
+        <item>Daha fazla detay için tıklayın</item>
+        <item>Daha fazla detay için tıklayın</item>
+
+        <item>Daha fazla detay için tıklayın</item>
+        <item>Daha fazla detay için tıklayın</item>
+        <item>Daha fazla detay için tıklayın</item>
+        <item>Daha fazla detay için tıklayın</item>
+        <item>Daha fazla detay için tıklayın</item>
+        <item>Daha fazla detay için tıklayın</item>
+        <item>Daha fazla detay için tıklayın</item>
+    </string-array>
+
+    <string-array name="about">
+        <item>%100 Sad Terapötik Uçucu Yağlar. Hiçbir dolgu maddesi, HİÇBİR katkı maddesı veya taşıyıcı Eklenmemiştir.
+           (Fransa, Avustralya, Bresilya) gibi ülkeler de dahil olmak üzere dünyanın farklı yerlerınden özenle seçilmiş bir seçim
+           Masaj tesisleri, güzellik salonları ve ofisler gibi profesyonel ortamlarda kullanılır.
+           6 Terapötık Yağ Seti, en populer ve talep gören Uçucu Yğağlardan bazılerinı içerir. Bu inanilmaz Hediye Setine dahildir.
+           Lavanta, Çay Ağacı, Okaliptüs, Nane, Limon Otu ve tatlı portakal.
+        </item>
+        <item>Derinden nemlendiren, yatıştıran, ınanılmaz derecede güçlü, fevkalade hafif bir  yüz yağı,
+        Yüzü canlandırır ve mutsuz etmeye calışan kötü adamlara karşı tamamen korur.
+        </item>
+        <item>Biyo uyumlu sınıf PET polimerden yapılmıştır,
+       BİZİM Yüz kalkanı, tükürük sıçramasına, sprey ve sıçramaya, damlaacıklara, toza, yağ dumanına ve daha fazlasına karşı tam yüz için mükemmel koruma sağlar.
+       OPTİK OLARAK CLEAR:%100 şeffaf, distorsiyonsuz, çevreleyen yüz siperi.</item>
+        <item>Lumin, erkeklere ciltlerine düzgün bir şekilde bakmaları icin kolay bir yol sağlamayı amaçlayan Los Angeles merkezli bir cilt bakımı girişimdir. Cilt bakımı dünyasına girmek zor bir dünyadır, ancak marka şu ana kadar sağlam bir çekis gücü kazanmiştir.</item>
+        <item>Soya Yüz temizleyici, cildi temel nemden çıkarmadan yüz makyajını derınlemesine temizleme ve çıkarma kabiliyeti ile sevilir.
+        Sakınleştirici salatalık özü, dengeleyici gül suyu ve besleyici hodan tohumu yağı ile temizleyici, cildi esnek ve tazelenmiş hissettirir.</item>
+        <item>
+            Doğal vücut peelingi vücut peeling tedavisi Derma-Scrub Vücut silika mikrogranüller, jojoba yağı, E vitamini bazlı. Her tür cilt için uygundur. Haftada 1 veya 2 kez iğneleme, mezoterapi gibi tedavilere hazırlık olarak da kullanılabilir. Kusursuz bir yenileme tedavisi için haftada 1 veya 2 kez kuru veya nemli cilde uygulanması, tüm vücuda yaklaşık 20-30 saniye masaj yapılması, durulanması ve kusura göre en uygun krem tedavisinin uygulanması tavsiye edilir: Derma-Lipo lipolitik ve azaltıcı tedavi için krem veya selülit önleyici tedavi için Derma-Celu Krem.
+        </item>
+        <item>
+            Vücut inceltici fosfatidilkolin krem lipolitik etkisi - Lokalize yağ birikintilerinin ve yağ yastıklarının tedavisi için endike olan, kolayca emilim emülsiyonu. Düzenli bir yaşam tarzı ve tutarlı bir şekilde (en az bir ay boyunca sabah ve akşam) uygulanan dengeli bir diyetle birleştirildiğinde, yağ yastıkçıklarında önemli bir azalma elde edilmesine, görünümü yeniden şekillendirmeye ve vücut profilini düzene sokmaya olanak tanır.
+        </item>
+
+
+        <item>%100 Sad Terapötik Uçucu Yağlar. Hiçbir dolgu maddesi, HİÇBİR katkı maddesı veya taşıyıcı Eklenmemiştir.
+           (Fransa, Avustralya, Bresilya) gibi ülkeler de dahil olmak üzere dünyanın farklı yerlerınden özenle seçilmiş bir seçim
+           Masaj tesisleri, güzellik salonları ve ofisler gibi profesyonel ortamlarda kullanılır.
+           6 Terapötık Yağ Seti, en populer ve talep gören Uçucu Yğağlardan bazılerinı içerir. Bu inanilmaz Hediye Setine dahildir.
+           Lavanta, Çay Ağacı, Okaliptüs, Nane, Limon Otu ve tatlı portakal.
+        </item>
+        <item>Derinden nemlendiren, yatıştıran, ınanılmaz derecede güçlü, fevkalade hafif bir  yüz yağı,
+        Yüzü canlandırır ve mutsuz etmeye calışan kötü adamlara karşı tamamen korur.
+        </item>
+        <item>Biyo uyumlu sınıf PET polimerden yapılmıştır,
+       BİZİM Yüz kalkanı, tükürük sıçramasına, sprey ve sıçramaya, damlaacıklara, toza, yağ dumanına ve daha fazlasına karşı tam yüz için mükemmel koruma sağlar.
+       OPTİK OLARAK CLEAR:%100 şeffaf, distorsiyonsuz, çevreleyen yüz siperi.</item>
+        <item>Lumin, erkeklere ciltlerine düzgün bir şekilde bakmaları icin kolay bir yol sağlamayı amaçlayan Los Angeles merkezli bir cilt bakımı girişimdir. Cilt bakımı dünyasına girmek zor bir dünyadır, ancak marka şu ana kadar sağlam bir çekis gücü kazanmiştir.</item>
+        <item>Soya Yüz temizleyici, cildi temel nemden çıkarmadan yüz makyajını derınlemesine temizleme ve çıkarma kabiliyeti ile sevilir.
+        Sakınleştirici salatalık özü, dengeleyici gül suyu ve besleyici hodan tohumu yağı ile temizleyici, cildi esnek ve tazelenmiş hissettirir.</item>
+        <item>
+            Doğal vücut peelingi vücut peeling tedavisi Derma-Scrub Vücut silika mikrogranüller, jojoba yağı, E vitamini bazlı. Her tür cilt için uygundur. Haftada 1 veya 2 kez iğneleme, mezoterapi gibi tedavilere hazırlık olarak da kullanılabilir. Kusursuz bir yenileme tedavisi için haftada 1 veya 2 kez kuru veya nemli cilde uygulanması, tüm vücuda yaklaşık 20-30 saniye masaj yapılması, durulanması ve kusura göre en uygun krem tedavisinin uygulanması tavsiye edilir: Derma-Lipo lipolitik ve azaltıcı tedavi için krem veya selülit önleyici tedavi için Derma-Celu Krem.
+        </item>
+        <item>
+            Vücut inceltici fosfatidilkolin krem lipolitik etkisi - Lokalize yağ birikintilerinin ve yağ yastıklarının tedavisi için endike olan, kolayca emilim emülsiyonu. Düzenli bir yaşam tarzı ve tutarlı bir şekilde (en az bir ay boyunca sabah ve akşam) uygulanan dengeli bir diyetle birleştirildiğinde, yağ yastıkçıklarında önemli bir azalma elde edilmesine, görünümü yeniden şekillendirmeye ve vücut profilini düzene sokmaya olanak tanır.
+        </item>
+
+    </string-array>
+
+
+
+</resources>
